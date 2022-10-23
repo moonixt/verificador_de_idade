@@ -1,0 +1,54 @@
+body {
+    background: rgba(155, 52, 38, 0.651);
+    
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: bold;
+    
+
+}
+
+header {
+    text-align: center;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.596);
+}
+
+section {
+    background: rgb(121, 219, 56);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #000c00;
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    position: absolute;
+    width: 100%;
+    font-style: italic;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.596);
+
+}
+
+div#texto1,#texto2 {
+
+    text-shadow: 5px 5px 10px black;
+    text-align: center;
+    padding: 8px;
+
+}
+
+img {
+
+    border-radius: 50%;
+    padding:20px;
+    width: 300px;
+    height: 300px;
+}
+
+
